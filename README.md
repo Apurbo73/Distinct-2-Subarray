@@ -1,4 +1,4 @@
-### Distinct 2 Subarray
+### Distinct 2 Subarray:
 
 This C++ code processes multiple test cases, and for each case, it finds the **length of the shortest subarray that contains exactly two distinct numbers**. If no such subarray exists, it prints `-1`.
 
