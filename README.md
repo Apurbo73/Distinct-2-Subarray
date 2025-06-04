@@ -61,6 +61,3 @@ This C++ code processes multiple test cases, and for each case, it finds the **l
 
 ### 💡 Summary:
 
-For each test case, the code finds the **smallest subarray** that contains **exactly 2 different numbers**, using a sliding window approach with a hash set for uniqueness checking.
-
-Want a [step-by-step example](f) or [optimized version](f) of this code?
