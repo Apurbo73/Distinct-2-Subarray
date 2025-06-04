@@ -61,3 +61,6 @@ This C++ code processes multiple test cases, and for each case, it finds the **l
 
 ### 💡 Summary:
 
+This program handles multiple test cases and, for each one, finds the shortest subarray that contains exactly two different numbers. It reads an array and uses nested loops to check all subarrays. An unordered set keeps track of how many unique numbers are in the current subarray.
+
+If the set reaches exactly two distinct numbers, the program updates the minimum length found so far. If it finds more than two, it stops checking that subarray. At the end of each test case, it prints the shortest length found or -1 if no such subarray exists.
